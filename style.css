@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    /*font-size: 48px;*/
+}
+
+.recipe-list {
+    background-color: hsl(195, 53%, 70%);
+}
+
+.recipe-list h2 {
+    color: blueviolet;
+}
+
+.list-elem {
+    font-style: italic;
+}
+
+.list-elem a {
+    font-weight: bold;
+    text-decoration: none;
+    color: blue;
+}

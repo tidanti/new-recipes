@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipe-img {
+    width: auto;
+    height: 300px;
+}
+
+#description {
+    font-style: italic;
+}
+
+.nav-link {
+    font-weight: bold;
+    font-size: 18px;
+}
